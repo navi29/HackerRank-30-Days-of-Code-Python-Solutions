@@ -11,3 +11,4 @@ if __name__ == '__main__':
 
     for i in range(10):
         print(str(N),"x 1 =",str(N*(i+1)))
+        
