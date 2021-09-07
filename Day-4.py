@@ -1,3 +1,11 @@
+#---------------------------------------------
+#Problem Statement:  [statement](https://www.hackerrank.com/challenges/30-class-vs-instance/problem)
+#---------------------------------------------
+#Language: Python
+#---------------------------------------------
+#Solution:
+#---------------------------------------------
+
 class Person:
 
     def __init__(self, intialAge):
